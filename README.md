@@ -30,4 +30,5 @@
    php artisan migrate
 ```
 7. Tampilan Page Login ketika sudah berhasil
-![alt text](image.png)
+<img width="1919" height="1197" alt="image" src="https://github.com/user-attachments/assets/8806b946-c4f0-4555-a920-4f5fe70f54c3" />
+
