@@ -21,12 +21,11 @@
 ```bash
    npm install
 ```
-5.  Kompilasi Aset Perintah ini akan meng-compile file CSS dan JS agar bisa digunakan oleh browser:
-<br>
+5. Kompilasi Aset Perintah ini akan meng-compile file CSS dan JS agar bisa digunakan oleh browser: <br>
 ```bash 
    npm run dev
 ```
-6.Jalankan perintah 'php artisan migrate' untuk menambahkan kolom remember_token ke tabel users dan membuat tabel password_reset_tokens <br>
+6. Jalankan perintah 'php artisan migrate' untuk menambahkan kolom remember_token ke tabel users dan membuat tabel password_reset_tokens <br>
 ```bash 
    php artisan migrate
 ```
